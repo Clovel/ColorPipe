@@ -31,6 +31,7 @@ keyword["STARTING"]="BCYAN"
 keyword["INFO"]="BCYAN"
 keyword["OK"]="BGREEN"
 keyword["KO"]="BRED"
+keyword["SUCCESS"]="BGREEN"
 # lower case
 keyword["error"]="BRED"
 keyword["warn"]="BYELLOW"
@@ -46,6 +47,7 @@ keyword["starting"]="BCYAN"
 keyword["info"]="BCYAN"
 keyword["ok"]="BGREEN"
 keyword["ko"]="BRED"
+keyword["success"]="BGREEN"
 # Normal case
 keyword["Error"]="BRED"
 keyword["Warn"]="BYELLOW"
@@ -61,6 +63,7 @@ keyword["Starting"]="BCYAN"
 keyword["Info"]="BCYAN"
 keyword["Ok"]="BGREEN"
 keyword["Ko"]="BRED"
+keyword["Success"]="BGREEN"
 
 
 declare -A colors
